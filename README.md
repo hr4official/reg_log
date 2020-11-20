@@ -1,2 +1,2 @@
 # reg_log
-registration and login simple
+simple registration and login in python django
